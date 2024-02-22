@@ -1,11 +1,13 @@
 # Text Editor Starter Code
 
-# User Story
+## Description
+The application is a web text editor where the user can create notes or code snippets with or without an internet connection and where the user can reliably retrieve them for later use.  The integrated service worker and Cache API's ensure that the application will remain fully functional even without and active internet connection.  This application allows the user to access visited pages even if the application is offline.
+## User Story
 AS A developer
 I WANT to create notes or code snippets with or without an internet connection
 SO THAT I can reliably retrieve them for later use
 
-# Acceptance Criteria
+## Acceptance Criteria
 GIVEN a text editor web application
 WHEN I open my application in my editor
 THEN I should see a client server folder structure
